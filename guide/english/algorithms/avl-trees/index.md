@@ -58,6 +58,6 @@ In LL Rotation every node moves one position to left from the current position.
 ->Single Right Rotation (RR Rotation)
 In RR Rotation every node moves one position to right from the current position. 
 ->Left Right Rotation (LR Rotation)
-The LR Rotation is combination of single left rotation followed by single right rotation. In LR Rotation, first every node moves one position to left then one position to right from the current position.
+The LR Rotation is a combination of single left rotation followed by single right rotation. In LR Rotation, first every node moves one position to left then one position to right from the current position.
 ->Right Left Rotation (RL Rotation)
-The RL Rotation is combination of single right rotation followed by single left rotation. In RL Rotation, first every node moves one position to right then one position to left from the current position.
+The RL Rotation is a combination of single right rotation followed by single left rotation. In RL Rotation, first every node moves one position to right then one position to left from the current position.
